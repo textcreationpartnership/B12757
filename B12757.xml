@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation touching the Earles of Tyrone and Tryconnell.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12757</idno><idno type="EEBO-CITATION">99892788</idno>
+  <idno type="VID">187177</idno>
+  <idno type="EEBO-PROQUEST">2240933961</idno>
+  
+            <idno type="STC">STC 8409</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[81]</idno>
+            <idno type="PROQUEST">ocm99892788</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892788e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187177)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[81])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation touching the Earles of Tyrone and Tryconnell.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Discrediting them and the reason for their flight to the Continent. Cf. STC.</note>
+                  <note>Dated at end: Westminster the fifteenth day of Nouember, in the fifth yeere of our reigne ...</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Tyrone, Hugh O'Neill, --  Earl of, 1540?-1616 --  Early works to 1800.</term>
+               <term type="personal_name">Tyrconnell, Roderick O'Donnell, --  Earl of, 1575-1608 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  James I, 1603-1625 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187177:1"/>
+            <head>❧ By the King.</head>
+            <head>¶ A Proclamation touching the Earles of Tyrone and Tyrconnell.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Eeing it is common and natural in all persons of what</hi> condition soeuer, to speake and iudge variably of all new and sudden acci<g ref="char:EOLhyphen"/>dents, And that the flight of the Earles of <hi>Tyrone</hi> and <hi>Tyrconnell,</hi> with some others of their fellowes out of the North parts of our Realme of Ireland, may haply prooue a subiect of like discourse: Wee haue thought it not a<g ref="char:EOLhyphen"/>misse to deliuer some such matter in publique, as may better cleare mens iudgements concerning the same; not in respect of any worth or value in these mens persons, being base and rude in their Originall; but to take a<g ref="char:EOLhyphen"/>way all such inconueniences as may blemish the reputation of that friendship which ought to be mu<g ref="char:EOLhyphen"/>tually obserued betweene vs and other Princes. For although it is not vnlikely, that the report of their Titles and dignities, may draw from Princes and States some such courtesies at their first com<g ref="char:EOLhyphen"/>ming abroad, as are incident to men of extraordinary rancke and qualitie: Yet when wee haue taken the best meanes wee can to lay them open in euery condition, wee shall then expect from our friends and neighbours all such iust and noble Proceedings, as stand with the rules of Honour and friend<g ref="char:EOLhyphen"/>ship, and from our Subiects at home and abroad, that duety and obedience (in their carriage toward them) which they owe to vs by inseparable bonds and obligations of Nature and Loyaltie, whereof we intend to take streight accompt. For which purpose we do hereby first declare that these persons aboue mentioned, had not their creations or possessions in regard of any lineall or lawfull descent from Ancestors of Blood or Vertue, but were onely preferred by the late Queene our sister of famous memory, and by our selues for some reasons of State before others, who for their qualitie and birth (in those Prouinces where they dwell) might better haue challenged those Honours which were confer<g ref="char:EOLhyphen"/>red vpon them. Secondly we doe professe, That it is both knowen to vs and our Counsell here, and to our Deputie and State there, and so shall it appeare to the world (as cleare as the Sunne) by eui<g ref="char:EOLhyphen"/>dent proofes, That the onely ground and motiue of this high contempt in these mens departure, hath been the priuate knowledge and inward terrour of their owne guiltinesse: Whereof because we heare that they doe seeke to take away the blot and infamie by diuulging that they haue withdrawen themselues for matter of Religion, (a cloake that serues too much in these dayes to couer many euill intentions) adding also thereunto some other vaine pretexts of receiuing iniustice, when their rights and Claimes haue come in question betweene them and Vs, or any of our Subiects and them, Wee thinke it not impertinent to say somewhat thereof.</p>
+            <p>And therefore, although we iudge it needlesse to seeke for many Arguments to confirme whatsoeuer shall be said of these mens corruption and falshood, (whose hainous offences remaine so fresh in me<g ref="char:EOLhyphen"/>morie since they declared themselues so very monsters in nature, as they did not only withdraw them<g ref="char:EOLhyphen"/>selues from their personall obedience to their Soueraigne, but were content to sell ouer their Natiue Countrey to those that stood at that time in the highest termes of Hostilitie with the two Crownes of England and Ireland) yet to make the absurditie and ingratitude of the Allegations aboue men<g ref="char:EOLhyphen"/>tioned,
+<pb facs="tcp:187177:2"/>so much the more cleare to all men of equall Iudgement, We doe hereby professe in the worde of a King, that there was neuer so much as any shadowe of molestation, nor purpose of proceeding in any degree against them for matter concerning Religion: Such being their condition and profession, to thinke murder no fault, mariage of no vse, nor any man worthy to bee esteemed valiant that did not glorie in Rapine and Oppression, as We should haue thought it an vnreasonable thing to trouble them for any different point in Religion, before any man could perceiue by their conuersation, that they made truely Conscience of any Religion. So do we also for the second part of their excuse affirme, that (notwithstanding all that they can claime, must be acknowledged to proceed from meere Grace vpon their submission after their great and vnnaturall Treasons) there hath neuer come any question con<g ref="char:EOLhyphen"/>cerning their Rights or Possessions, wherein we haue not bene more inclinable to doe them fauour, then to any of their Competitours, except in those Cases wherein wee haue plainely discerned that their onely end was to haue made themselues by degrees more able then now they are, to resist all law<g ref="char:EOLhyphen"/>full Authoritie (when they should returne to their vomit againe) by vsurping a power ouer other good Subiects of Ours, that dwell among them better borne then they, and vtterly disclaiming from any dependancie vpon them.</p>
+            <p>Hauing now deliuered thus much concerning these mens Estates and their proceedings, Wee will onely end with this conclusion, That they shal not be able to denie, whensoeuer they should dare to pre<g ref="char:EOLhyphen"/>sent themselues before the Seate of Iustice, that they haue (before their running out of our kingdom) not onely entred into combination for stirring Sedition and intestine Rebellion, but haue directed di<g ref="char:EOLhyphen"/>uers Instruments, as well Priestes as others, to make offers to foreine States and Princes (if they had beene as ready to receiue them) of their readinesse and resolution to adhere to them, whensoeuer they would seeke to inuade that kingdome. Wherein amongst other things, this is not to be forgot<g ref="char:EOLhyphen"/>ten, That vnder the condition of being made free from English gouernment, they resolued also to comprehend the vtter extirpation of all those Subiects that are nowe remayning aliue within that kingdome, formerly descended from the English race. In which practises and propositions, follow<g ref="char:EOLhyphen"/>ed and fomented by Priestes and Iesuites (of whose function in these times the practise and perswasion of subiects to rebell against their Soueraignes, is one speciall and essentiall part and portion) as they haue found no such incouragement as they expected and haue boasted of: so We doe assure our selues, that when this declaration shall bee seene and duely weighed with all due circumstances, it will bee of force sufficient to disperse and to discredit all such vntrueths, as these contemptible creatures so full of infidelity and ingratitude, shall disgorge against Vs, and our iust and moderate proceeding, and shall procure vnto them no better vsage then they would wish should be afforded to any such packe of Re<g ref="char:EOLhyphen"/>bels, borne their Subiects, and bound vnto them in so many and so great obligations.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at our Palace of Westminster <date>the fifteenth day of Nouember, in the fifth yeere of our reigne of Great Britaine, France and Ireland.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. ANNO DOM. 1607.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
